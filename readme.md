@@ -2,7 +2,7 @@
 
 I got tired of going to content generation websites, so I made this mixin. lipsum() is an easy-to-use mixin that will insert as much (random) content as you ask for into the page. No HTML, just content.
 
-It takes two parameters - amount of content, and type ("words", "characters", or "sentaces").
+It takes two parameters - amount of content, and type ("words", "characters", or "sentences").
 
 ## Usage:
 
